@@ -5,7 +5,7 @@
 * This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
 ## Link to Website
 * Click on the link provided below to view the site.
-* 
+* https://samuel-ndienye.github.io/delani-studio/
 ## Setup instructions
 * Access to internet
 * Either smartphone or a computer
