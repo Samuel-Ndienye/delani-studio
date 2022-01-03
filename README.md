@@ -15,7 +15,7 @@
 * HTML- which was used to build the structure of the page.
 * Javascript-  which was used to add interactivity.
 * Bootsrap-  which was used to add responsiveness.
- *JQUERY- which was used to add responsiveness
+* JQUERY- which was used to add responsiveness
  ## Support and contact details
 * Slack - Samuel Wang'ang'a
 * E-mail - samngash003@gmail.com
