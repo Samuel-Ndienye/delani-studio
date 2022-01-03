@@ -3,9 +3,7 @@ html{
 }
 .landing{
   background-image: url(images/h_img.jpg);
-  background-position: center center;
   background-size: cover;
-  background-repeat: no-repeat;
   color: white;
   text-align: center;
   padding-top:17%; 
@@ -53,9 +51,7 @@ html{
   text-align: center;
   background-image: url(images/s_image.jpg);
   color: white;
-  background-position: center;
   background-size: cover;
-  background-repeat: no-repeat;
   font-size: 18px;
 }
 
@@ -88,9 +84,7 @@ html{
 }
 .contact{
   background-image: url(images/c_image.jpg);
-  background-position: center center;
   background-size: cover;
-  background-repeat: no-repeat;
   color: white;
 }
 .title{
@@ -101,7 +95,6 @@ html{
   margin-top: 30px;
   padding-top: 40px;
   padding-bottom: 20px;
-  font-family: 'Gabriela', serif;
 }
 input[type=text],input[type=email],#comment{
   background: transparent;
@@ -139,14 +132,12 @@ button{
 footer{
   text-align: center;
   padding-top: 30px;
-  font-family: 'Delius Swash Caps', cursive;
 }
 footer p{
   margin-top: 10px;
 }
 #product, #development, #design{
   display: none;
-  font-family: 'Copse', serif;
   font-size: 16px;
 }
 #product .title, #development .title, #design .title{
