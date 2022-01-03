@@ -48,10 +48,6 @@ html{
   text-align: center;
   padding-bottom: 30px;
   padding-top:40px;
-  font-family: 'Copse', serif;
-}
-#about{
-  font-family: 'Gabriela', serif;
 }
 .services{
   text-align: center;
@@ -60,23 +56,17 @@ html{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: 'Copse', serif;
   font-size: 18px;
 }
-.services h2{
-  font-family: 'Gabriela', serif;
-  
-}
+
 #servicesoverlay{
   background-color: rgba(0,0,0,0.4);
   padding-top: 10%;
   padding-bottom: 10%;
 }
 .what-we-do{
-  font-family: 'Quattrocento', serif;
   text-align: center;
   padding-top: 40px;
-  font-family: 'Gabriela', serif;
 }
 .what-we-do .headings{
   padding-bottom: 38px;
@@ -95,7 +85,6 @@ html{
 .portfolio h2{
   text-align: center;
   padding-top:40px;
-  font-family: 'Gabriela', serif;
 }
 .contact{
   background-image: url('../images/c_image.jpg');
