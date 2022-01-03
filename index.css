@@ -103,7 +103,6 @@ html{
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
-  /* text-align: center; */
 }
 .title{
   padding: 6px;
@@ -119,7 +118,13 @@ input[type=text],input[type=email],#comment{
   background: transparent;
   color: white;
   font-size: 20px;
-  font-family: 'Copse', serif;
+}
+input[type=email]{
+margin-left: 54%;
+margin-bottom: 4%;
+}
+input[type=text]{
+  margin-top: 2%;
 }
 
 .form-control::-webkit-input-placeholder { 
