@@ -2,7 +2,7 @@
 html{
   scroll-behavior: smooth;
 }
-.landing{
+.welcome{
   background-image: url(images/h_img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -10,11 +10,11 @@ html{
   text-align: center;
   padding-top:17%; 
 }
-.landing h1{
+.welcome h1{
   padding: 2px;
   margin: 5px;
 }
-.landing p{
+.welcome p{
   padding: 2px;
 }
 #logo{
@@ -73,7 +73,7 @@ font-weight: 900;
   text-align: center;
   padding-top: 40px;
 }
-.what .headings{
+.what .heading{
   padding-bottom: 38px;
 }
 #portfolio{
